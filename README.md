@@ -1,3 +1,5 @@
+The project is an exercise for the frontend deployment on OpenShift. It does not contain contents related to the voting app and can be deleted.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
